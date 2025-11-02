@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+numpy
+Pillow
+tqdm
+streamlit
+torch
+seaborn
+matplotlib
